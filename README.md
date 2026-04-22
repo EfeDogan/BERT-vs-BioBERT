@@ -55,4 +55,3 @@ To observe the stark difference in context mapping between the two models, try u
 ## 👨‍💻 Author
 
 **Efe Emirhan Doğan** *Information Retrieval Term Project*
-```
